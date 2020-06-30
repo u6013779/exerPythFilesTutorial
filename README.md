@@ -36,8 +36,13 @@
   * read()
   * readlines()
   * readline()
-  * 
-  * 
+  * while len() > 0:
+  * tell()
+  * seek()
+  * write()
+  * copy test.txt file to another file called test_copy.txt
+  * open and copy an image file using binary mode (You'll need to find an image file of your choice online.)
+  * copy a binary file using chunks
   
 * When you're done make sure you save your file.
 
